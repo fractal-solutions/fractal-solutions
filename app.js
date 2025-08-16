@@ -615,7 +615,7 @@ const App = () => {
           key: 'title',
           className: 'text-2xl font-bold text-cyan-400 mb-6'
         }, 'Contact Information'),
-        React.createElement('div', { key: 'contact-info', className: 'text-sm' }, [
+        React.createElement('div', { key: 'contact-info', className: 'text-[12px]' }, [
           React.createElement('p', {
             key: 'email',
             className: 'text-gray-300'
