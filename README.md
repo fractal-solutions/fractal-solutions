@@ -1,7 +1,7 @@
 # 👋 Hello, I'm fractal-solutions
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=7AA2F7&width=435&lines=|Impact|+|Utility|+|Effectiveness|;Solving+Complex+Problems;Building+Resolute+Software)
 
-## 🧩 Core Architectures
+## 🧩 Core Specializations
  
 ![Automation](https://img.shields.io/badge/Automation-1A1B26?style=for-the-badge&logo=githubactions&logoColor=7AA2F7)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-1A1B26?style=for-the-badge&logo=openai&logoColor=7AA2F7)
