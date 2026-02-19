@@ -11,6 +11,10 @@
 ![High Bandwidth](https://img.shields.io/badge/High_Traffic_Load-1A1B26?style=for-the-badge&logo=nginx&logoColor=7AA2F7)
 ![Novel Solutions](https://img.shields.io/badge/Novel_Problem_Solving-1A1B26?style=for-the-badge&logo=probot&logoColor=7AA2F7)
 
+## 🤖 Languages
+
 </br> ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fractal-solutions&layout=compact&theme=tokyonight&hide=html,css&hide_title=true&langs_count=10&card_width=445)
+
+## 🔥 Streak
 
 </br> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fractal-solutions&theme=tokyonight&hide_border=true)
